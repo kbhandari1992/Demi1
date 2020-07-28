@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is D81B-BFA7
+
+ Directory of C:\Users\khagi\OneDrive\Desktop\MyGitPro
+
+07/28/2020  12:44 PM    <DIR>          .
+07/28/2020  12:44 PM    <DIR>          ..
+07/28/2020  12:44 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  961,836,830,720 bytes free
